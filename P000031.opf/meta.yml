@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000031
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བླ་མའི་ཐུགས་སྒྲུབ་བར་ཆད་ཀུན་སེལ་ལས། ཞལ་གདམས་སྙིང་བྱང་གི་འགྲེལ་བཤད་སྙིང་པོར་དྲིལ་བ་རྩ་གསུམ་སྒྱུ་འཕྲུལ་དྲྭ་བའི་རོལ་རྩེད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-16
   layers:
   - book_title
   - author
   - sabche
+  id: SHE-DKR-16
 web_metadata:
   title:
     en: The Creative Play of the Illusory Net of the Three Roots:A Commentary on the
